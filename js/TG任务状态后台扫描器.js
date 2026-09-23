@@ -5,7 +5,7 @@
 // @updateURL    https://raw.githubusercontent.com/YuukiRitoTeng/browser-utilities/main/js/TG任务状态后台扫描器.js
 // @downloadURL  https://raw.githubusercontent.com/YuukiRitoTeng/browser-utilities/main/js/TG任务状态后台扫描器.js
 // @description  后台扫描 TG/Educoder 课堂考试、小测试和图文作业状态，并保存到共享存储
-// @author       ChatGPT
+// @author       Mea
 // @background
 // @match        https://tg.zcst.edu.cn/*
 // @match        https://www.educoder.net/*
