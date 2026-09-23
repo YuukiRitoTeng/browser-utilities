@@ -5,7 +5,7 @@
 // @updateURL    https://raw.githubusercontent.com/YuukiRitoTeng/browser-utilities/main/js/TG任务助手前台面板.js
 // @downloadURL  https://raw.githubusercontent.com/YuukiRitoTeng/browser-utilities/main/js/TG任务助手前台面板.js
 // @description  读取 TG任务状态后台扫描器 的共享结果，在 TG 页面右下角显示任务助手抽屉
-// @author       ChatGPT
+// @author       Mea
 // @match        https://tg.zcst.edu.cn/*
 // @match        https://www.educoder.net/*
 // @match        http://172.16.36.150/*
