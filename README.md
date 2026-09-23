@@ -4,15 +4,15 @@
 
 当前包含两个项目：
 
-- **TG / 头歌任务助手**：ScriptCat Userscript，当前版本 3.1
+- **TG / 头歌任务助手**：ScriptCat Userscript，当前版本 3.4
 - **学习通资料下载器**：Chrome Manifest V3 Extension，当前版本 0.4.0
 
 ## 下载
 
 | 项目 | 类型 | 版本 | 安装 / 下载 |
 | --- | --- | --- | --- |
-| [TG任务助手前台面板](https://scriptcat.org/zh-CN/script-show-page/6322) | ScriptCat Userscript | 3.1 | [ScriptCat 安装](https://scriptcat.org/zh-CN/script-show-page/6322) |
-| [TG任务状态后台扫描器](https://scriptcat.org/zh-CN/script-show-page/6323) | ScriptCat Userscript | 3.1 | [ScriptCat 安装](https://scriptcat.org/zh-CN/script-show-page/6323) |
+| [TG任务助手前台面板](https://scriptcat.org/zh-CN/script-show-page/6322) | ScriptCat Userscript | 3.4 | [ScriptCat 安装](https://scriptcat.org/zh-CN/script-show-page/6322) |
+| [TG任务状态后台扫描器](https://scriptcat.org/zh-CN/script-show-page/6323) | ScriptCat Userscript | 3.4 | [ScriptCat 安装](https://scriptcat.org/zh-CN/script-show-page/6323) |
 | [学习通资料下载器](https://github.com/YuukiRitoTeng/browser-utilities/tree/main/js/%E5%AD%A6%E4%B9%A0%E9%80%9A%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD%E5%99%A8) | Chrome MV3 Extension | 0.4.0 | [GitHub Release ZIP](https://github.com/YuukiRitoTeng/browser-utilities/releases/download/2026.09/Chaoxing-Materials-Downloader-v0.4.0.zip) |
 
 ScriptCat 作者主页：[https://scriptcat.org/zh-CN/users/188482](https://scriptcat.org/zh-CN/users/188482)
