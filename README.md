@@ -1,4 +1,4 @@
-# Browser Scripts
+# Browser Utilities
 
 用于存放个人使用的浏览器用户脚本和 Chrome 扩展。
 
@@ -13,14 +13,14 @@
 | --- | --- | --- | --- |
 | [TG任务助手前台面板](https://scriptcat.org/zh-CN/script-show-page/6322) | ScriptCat Userscript | 3.1 | [ScriptCat 安装](https://scriptcat.org/zh-CN/script-show-page/6322) |
 | [TG任务状态后台扫描器](https://scriptcat.org/zh-CN/script-show-page/6323) | ScriptCat Userscript | 3.1 | [ScriptCat 安装](https://scriptcat.org/zh-CN/script-show-page/6323) |
-| [学习通资料下载器](https://github.com/YuukiRitoTeng/Browser-Scripts/tree/main/js/%E5%AD%A6%E4%B9%A0%E9%80%9A%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD%E5%99%A8) | Chrome MV3 Extension | 0.4.0 | [GitHub Release ZIP](https://github.com/YuukiRitoTeng/Browser-Scripts/releases/download/2026.09/Chaoxing-Materials-Downloader-v0.4.0.zip) |
+| [学习通资料下载器](https://github.com/YuukiRitoTeng/browser-utilities/tree/main/js/%E5%AD%A6%E4%B9%A0%E9%80%9A%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD%E5%99%A8) | Chrome MV3 Extension | 0.4.0 | [GitHub Release ZIP](https://github.com/YuukiRitoTeng/browser-utilities/releases/download/2026.09/Chaoxing-Materials-Downloader-v0.4.0.zip) |
 
 ScriptCat 作者主页：[https://scriptcat.org/zh-CN/users/188482](https://scriptcat.org/zh-CN/users/188482)
 
 ## 项目结构
 
 ```text
-Browser-Scripts/
+browser-utilities/
 ├─ js/
 │  ├─ TG任务助手前台面板.js
 │  ├─ TG任务状态后台扫描器.js
@@ -66,8 +66,8 @@ ScriptCat 作者主页：[https://scriptcat.org/zh-CN/users/188482](https://scri
 
 GitHub 源码和 Raw 链接仍然保留：
 
-- [TG任务助手前台面板.js 源码](https://github.com/YuukiRitoTeng/Browser-Scripts/blob/main/js/TG%E4%BB%BB%E5%8A%A1%E5%8A%A9%E6%89%8B%E5%89%8D%E5%8F%B0%E9%9D%A2%E6%9D%BF.js) · [Raw](https://raw.githubusercontent.com/YuukiRitoTeng/Browser-Scripts/main/js/TG%E4%BB%BB%E5%8A%A1%E5%8A%A9%E6%89%8B%E5%89%8D%E5%8F%B0%E9%9D%A2%E6%9D%BF.js)
-- [TG任务状态后台扫描器.js 源码](https://github.com/YuukiRitoTeng/Browser-Scripts/blob/main/js/TG%E4%BB%BB%E5%8A%A1%E7%8A%B6%E6%80%81%E5%90%8E%E5%8F%B0%E6%89%AB%E6%8F%8F%E5%99%A8.js) · [Raw](https://raw.githubusercontent.com/YuukiRitoTeng/Browser-Scripts/main/js/TG%E4%BB%BB%E5%8A%A1%E7%8A%B6%E6%80%81%E5%90%8E%E5%8F%B0%E6%89%AB%E6%8F%8F%E5%99%A8.js)
+- [TG任务助手前台面板.js 源码](https://github.com/YuukiRitoTeng/browser-utilities/blob/main/js/TG%E4%BB%BB%E5%8A%A1%E5%8A%A9%E6%89%8B%E5%89%8D%E5%8F%B0%E9%9D%A2%E6%9D%BF.js) · [Raw](https://raw.githubusercontent.com/YuukiRitoTeng/browser-utilities/main/js/TG%E4%BB%BB%E5%8A%A1%E5%8A%A9%E6%89%8B%E5%89%8D%E5%8F%B0%E9%9D%A2%E6%9D%BF.js)
+- [TG任务状态后台扫描器.js 源码](https://github.com/YuukiRitoTeng/browser-utilities/blob/main/js/TG%E4%BB%BB%E5%8A%A1%E7%8A%B6%E6%80%81%E5%90%8E%E5%8F%B0%E6%89%AB%E6%8F%8F%E5%99%A8.js) · [Raw](https://raw.githubusercontent.com/YuukiRitoTeng/browser-utilities/main/js/TG%E4%BB%BB%E5%8A%A1%E7%8A%B6%E6%80%81%E5%90%8E%E5%8F%B0%E6%89%AB%E6%8F%8F%E5%99%A8.js)
 
 支持入口：
 
@@ -81,7 +81,7 @@ GitHub 源码和 Raw 链接仍然保留：
 
 类型：Chrome Manifest V3 Extension
 
-目录：[`js/学习通资料下载器/`](https://github.com/YuukiRitoTeng/Browser-Scripts/tree/main/js/%E5%AD%A6%E4%B9%A0%E9%80%9A%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD%E5%99%A8/)
+目录：[`js/学习通资料下载器/`](https://github.com/YuukiRitoTeng/browser-utilities/tree/main/js/%E5%AD%A6%E4%B9%A0%E9%80%9A%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD%E5%99%A8/)
 
 当前版本：0.4.0
 
@@ -99,7 +99,7 @@ GitHub 源码和 Raw 链接仍然保留：
 
 ### 安装方法
 
-1. 从 [GitHub Release](https://github.com/YuukiRitoTeng/Browser-Scripts/releases/tag/2026.09) 下载 [Chaoxing-Materials-Downloader-v0.4.0.zip](https://github.com/YuukiRitoTeng/Browser-Scripts/releases/download/2026.09/Chaoxing-Materials-Downloader-v0.4.0.zip)。
+1. 从 [GitHub Release](https://github.com/YuukiRitoTeng/browser-utilities/releases/tag/2026.09) 下载 [Chaoxing-Materials-Downloader-v0.4.0.zip](https://github.com/YuukiRitoTeng/browser-utilities/releases/download/2026.09/Chaoxing-Materials-Downloader-v0.4.0.zip)。
 2. 解压 ZIP。
 3. Chrome 打开 `chrome://extensions`。
 4. 开启“开发者模式”。
@@ -130,8 +130,12 @@ GitHub 源码和 Raw 链接仍然保留：
 - Windows / Chrome 可能规范化部分文件名。
 - Safe Browsing 最终由 Chrome 控制。
 
-更详细的扩展说明见：[`js/学习通资料下载器/README.md`](https://github.com/YuukiRitoTeng/Browser-Scripts/blob/main/js/%E5%AD%A6%E4%B9%A0%E9%80%9A%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD%E5%99%A8/README.md)。
+更详细的扩展说明见：[`js/学习通资料下载器/README.md`](https://github.com/YuukiRitoTeng/browser-utilities/blob/main/js/%E5%AD%A6%E4%B9%A0%E9%80%9A%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD%E5%99%A8/README.md)。
 
 ## Release
 
-[Browser Scripts - 2026.09](https://github.com/YuukiRitoTeng/Browser-Scripts/releases/tag/2026.09) 只提供学习通资料下载器的 Chrome 扩展 ZIP；TG 两个脚本通过 ScriptCat 发布和更新。
+[Browser Utilities - 2026.09](https://github.com/YuukiRitoTeng/browser-utilities/releases/tag/2026.09) 只提供学习通资料下载器的 Chrome 扩展 ZIP；TG 两个脚本通过 ScriptCat 发布和更新。
+
+## License
+
+MIT License. See [LICENSE](LICENSE).

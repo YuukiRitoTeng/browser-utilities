@@ -2,8 +2,8 @@
 // @name         TG任务助手前台面板
 // @namespace    tg-task-monitor-ui
 // @version      3.4
-// @updateURL    https://raw.githubusercontent.com/YuukiRitoTeng/Educoder_Touge-js/main/js/TG任务助手前台面板.js
-// @downloadURL  https://raw.githubusercontent.com/YuukiRitoTeng/Educoder_Touge-js/main/js/TG任务助手前台面板.js
+// @updateURL    https://raw.githubusercontent.com/YuukiRitoTeng/browser-utilities/main/js/TG任务助手前台面板.js
+// @downloadURL  https://raw.githubusercontent.com/YuukiRitoTeng/browser-utilities/main/js/TG任务助手前台面板.js
 // @description  读取 TG任务状态后台扫描器 的共享结果，在 TG 页面右下角显示任务助手抽屉
 // @author       ChatGPT
 // @match        https://tg.zcst.edu.cn/*
